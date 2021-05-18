@@ -49,3 +49,15 @@ input
     border-bottom: 1px solid white;
     padding: 8px;
 }
+.book {
+    cursor: pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_model{
+    margin-top: 10px;
+}
